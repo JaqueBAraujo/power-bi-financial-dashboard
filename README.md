@@ -1,57 +1,31 @@
-# 📊 Dashboard Financeiro com Power BI
+# 📊 Projetos Power BI — Formação DIO
 
-Dashboard desenvolvido no Power BI para análise de dados financeiros e visualização dos principais indicadores de vendas.
+Repositório dedicado aos desafios práticos desenvolvidos durante a formação **Power BI Analyst da DIO**.
 
-## 📌 Dashboard
+Os projetos foram realizados utilizando o Power BI Online, com foco no desenvolvimento de habilidades em análise de dados, visualização de indicadores e criação de dashboards interativos.
 
-![Dashboard Financeiro](image.png)
+## 📁 Projetos desenvolvidos
+
+### Desafio 01 — Dashboard Financeiro
+
+Construção de um dashboard para análise de vendas, contendo indicadores financeiros, gráficos por produto, país e período.
+
+📂 [Acessar Desafio 01](Desafio-01/README.md)
+
+### Desafio 02 — Relatório de Vendas
+
+Desenvolvimento de um relatório interativo com indicadores financeiros, evolução mensal das vendas, análise por segmento e produto, segmentação por datas e botões para alternar visualizações.
+
+📂 [Acessar Desafio 02](Desafio-02/README.md)
+
+**Observação:** O visual de mapa apresentou uma restrição de permissões no ambiente Power BI Online, impossibilitando sua exibição. Os demais recursos foram desenvolvidos e testados.
+
+## 🛠️ Ferramentas utilizadas
+
+- Microsoft Power BI Online
+- Microsoft Fabric
+- GitHub
 
 ## 🎯 Objetivo
 
-O objetivo deste projeto foi desenvolver um relatório interativo capaz de transformar dados financeiros em informações visuais que facilitem a análise e a tomada de decisão.
-
-## 📊 Análises desenvolvidas
-
-O dashboard apresenta:
-
-- 💰 Total de vendas
-- 📦 Vendas por produto
-- 🌎 Vendas por país
-- 📈 Evolução das vendas ao longo do tempo
-- 📅 Filtro interativo por ano
-
-## 🔎 Principais possibilidades de análise
-
-Com o relatório é possível:
-
-- Identificar os produtos com maior volume de vendas;
-- Comparar o desempenho das vendas entre países;
-- Acompanhar a evolução das vendas ao longo do período;
-- Filtrar os resultados por ano.
-
-## 🛠️ Tecnologias utilizadas
-
-- Microsoft Power BI
-- Power BI Service
-- Microsoft Financial Sample
-- GitHub
-
-## 📚 Aprendizados
-
-Durante o desenvolvimento deste projeto foram praticados conceitos de:
-
-- Exploração de dados;
-- Criação de indicadores;
-- Construção de visualizações;
-- Análise temporal;
-- Uso de filtros interativos;
-- Organização de dashboards;
-- Apresentação de informações para apoio à tomada de decisão.
-
-## 🚀 Resultado
-
-O resultado é um dashboard financeiro interativo que reúne indicadores e diferentes perspectivas de análise em uma única página.
-
----
-
-**Desenvolvido por Jaqueline Araújo**
+Documentar a evolução prática dos conhecimentos adquiridos na formação Power BI Analyst, construindo um portfólio de projetos de Business Intelligence e análise de dados.
