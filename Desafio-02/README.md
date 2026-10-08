@@ -30,7 +30,7 @@ Por esse motivo, o espaço destinado ao mapa foi mantido no dashboard com a mens
 
 ## 🖥️ Visualização do Dashboard
 
-![Dashboard do Desafio 02](Captura%20de%20Tela%202026-10-08%20%C3%A0s%2017.26.04.png)
+![Dashboard do Desafio 02](dashboard-desafio-02.png)
 
 ## 🛠️ Ferramentas Utilizadas
 
