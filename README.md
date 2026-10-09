@@ -20,6 +20,17 @@ Desenvolvimento de um relatório interativo com indicadores financeiros, evoluç
 
 **Observação:** O visual de mapa apresentou uma restrição de permissões no ambiente Power BI Online, impossibilitando sua exibição. Os demais recursos foram desenvolvidos e testados.
 
+
+### Desafio 03 — Integrando Dados com MySQL Azure e Transformando com Power BI
+
+Estudo dos conceitos de integração de bancos de dados relacionais com Power BI, coleta, limpeza e transformação de dados.
+
+**Status:** Não implementado.
+
+A execução prática foi adiada devido à necessidade de infraestrutura no Microsoft Azure, que não faz parte das prioridades de investimento atuais.
+
+📂 [Acessar documentação do Desafio 03](Desafio-03/README.md)
+
 ## 🛠️ Ferramentas utilizadas
 
 - Microsoft Power BI Online
