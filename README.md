@@ -31,6 +31,18 @@ A execução prática foi adiada devido à necessidade de infraestrutura no Micr
 
 📂 [Acessar documentação do Desafio 03](Desafio-03/README.md)
 
+### Desafio 04 — Modelagem Dimensional: Star Schema
+
+Desenvolvimento de um modelo dimensional para análise das atividades dos professores de uma universidade, utilizando uma tabela fato central e cinco tabelas dimensão.
+
+O projeto contempla relacionamentos 1:N, dimensão de datas e documentação das premissas de modelagem.
+
+**Ferramenta:** diagrams.net (draw.io).
+
+**Status:** Diagrama dimensional concluído.
+
+📂 [Acessar o Desafio 04](Desafio-04/README.md)
+
 ## 🛠️ Ferramentas utilizadas
 
 - Microsoft Power BI Online
