@@ -75,4 +75,13 @@ O projeto demonstra a construção de um relatório financeiro com múltiplas p�
 
 ## Evidências
 
-As capturas de tela das páginas do relatório serão disponibilizadas nesta pasta para demonstrar as funcionalidades implementadas.
+## Evidências
+
+### Página 1 — Visão geral
+![Página 1](Pagina_1_Visao_Geral.png)
+
+### Página 2 — Dashboard financeiro
+![Página 2](Pagina_2_Visao_Geral.png)
+
+### Página 3 — Análise detalhada
+![Página 3](Pagina_3_Visao_Geral.png)
