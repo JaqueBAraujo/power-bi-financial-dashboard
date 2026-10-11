@@ -64,4 +64,8 @@ Também foi possível validar o funcionamento dos filtros e observar como as sel
 
 ## Evidência do projeto
 
-A captura de tela do dashboard final será adicionada a este repositório para demonstrar os resultados obtidos.
+## Evidência do projeto
+
+A imagem abaixo apresenta o dashboard desenvolvido no Power BI Online, incluindo os indicadores financeiros, as análises de vendas e o filtro por ano.
+
+![Dashboard de Análise Financeira](Dashboard_Financeiro.png)
